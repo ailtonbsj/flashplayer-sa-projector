@@ -1,0 +1,4 @@
+flash_sa_x64.tar.gz
+deb_package/usr/bin/
+deb_package/usr/share/doc/
+*.deb

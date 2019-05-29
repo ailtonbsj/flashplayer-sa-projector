@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Flash Player Projector
+GenericName=Flash Player Projector
+Comment=Play files in swf
+Name[pt_BR]=Flash Player Projetor
+Exec=/usr/bin/flashplayer
+TryExec=/usr/bin/flashplayer
+Icon=flashplayer
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=application/x-shockwave-flash;application/x-flash-video;
+Keywords=Player;Flash;
